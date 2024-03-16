@@ -1,0 +1,3 @@
+/home/steve/temp/cppnvim/out/Debug/CMakeFiles/hello.dir
+/home/steve/temp/cppnvim/out/Debug/CMakeFiles/edit_cache.dir
+/home/steve/temp/cppnvim/out/Debug/CMakeFiles/rebuild_cache.dir

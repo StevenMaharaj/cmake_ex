@@ -1,0 +1,35 @@
+
+[EXECUTE]: cmake -B /home/steve/temp/cppnvim/out/Debug -S . -D CMAKE_BUILD_TYPE:STRING=Debug -DCMAKE_EXPORT_COMPILE_COMMANDS=1
+[EXECUTE]: cmake --build /home/steve/temp/cppnvim/out/Debug --target hello
+[EXECUTE]: cmake -B /home/steve/temp/cppnvim/out/Debug -S . -D CMAKE_BUILD_TYPE:STRING=Debug -DCMAKE_EXPORT_COMPILE_COMMANDS=1
+[EXECUTE]: cmake --build /home/steve/temp/cppnvim/out/Debug --target hello
+[EXECUTE]: cmake -B /home/steve/temp/cppnvim/out/Debug -S . -D CMAKE_BUILD_TYPE:STRING=Debug -DCMAKE_EXPORT_COMPILE_COMMANDS=1
+[EXECUTE]: cmake -B /home/steve/temp/cppnvim/out/Debug -S . -D CMAKE_BUILD_TYPE:STRING=Debug -DCMAKE_EXPORT_COMPILE_COMMANDS=1
+[EXECUTE]: cmake --build /home/steve/temp/cppnvim/out/Debug --target hello
+[EXECUTE]: cmake -B /home/steve/temp/cppnvim/out/Debug -S . -D CMAKE_BUILD_TYPE:STRING=Debug -DCMAKE_EXPORT_COMPILE_COMMANDS=1
+[EXECUTE]: cmake -B /home/steve/temp/cppnvim/out/Debug -S . -D CMAKE_BUILD_TYPE:STRING=Debug -DCMAKE_EXPORT_COMPILE_COMMANDS=1
+[EXECUTE]: cmake -B /home/steve/temp/cppnvim/out/Debug -S . -D CMAKE_BUILD_TYPE:STRING=Debug -DCMAKE_EXPORT_COMPILE_COMMANDS=1
+[EXECUTE]: cmake --build /home/steve/temp/cppnvim/out/Debug --target hello
+[EXECUTE]: cmake -B /home/steve/temp/cppnvim/out/Debug -S . -D CMAKE_BUILD_TYPE:STRING=Debug -DCMAKE_EXPORT_COMPILE_COMMANDS=1
+[EXECUTE]: cmake -B /home/steve/temp/cppnvim/out/Debug -S . -D CMAKE_BUILD_TYPE:STRING=Debug -DCMAKE_EXPORT_COMPILE_COMMANDS=1
+[EXECUTE]: cmake --build /home/steve/temp/cppnvim/out/Debug --target hello
+[EXECUTE]: cmake -B /home/steve/temp/cppnvim/out/Debug -S . -D CMAKE_BUILD_TYPE:STRING=Debug -DCMAKE_EXPORT_COMPILE_COMMANDS=1
+[EXECUTE]: cmake -B /home/steve/temp/cppnvim/out/Debug -S . -D CMAKE_BUILD_TYPE:STRING=Debug -DCMAKE_EXPORT_COMPILE_COMMANDS=1
+[EXECUTE]: cmake -B /home/steve/temp/cppnvim/out/Debug -S . -D CMAKE_BUILD_TYPE:STRING=Debug -DCMAKE_EXPORT_COMPILE_COMMANDS=1
+[EXECUTE]: cmake --build /home/steve/temp/cppnvim/out/Debug --target hello
+[EXECUTE]: cmake -B /home/steve/temp/cppnvim/out/Debug -S . -D CMAKE_BUILD_TYPE:STRING=Debug -DCMAKE_EXPORT_COMPILE_COMMANDS=1
+[EXECUTE]: cmake --build /home/steve/temp/cppnvim/out/Debug --target hello
+[EXECUTE]: cmake -B /home/steve/temp/cppnvim/out/Debug -S . -D CMAKE_BUILD_TYPE:STRING=Debug -DCMAKE_EXPORT_COMPILE_COMMANDS=1
+[EXECUTE]: cmake -B /home/steve/temp/cppnvim/out/Debug -S . -D CMAKE_BUILD_TYPE:STRING=Debug -DCMAKE_EXPORT_COMPILE_COMMANDS=1
+[EXECUTE]: cmake --build /home/steve/temp/cppnvim/out/Debug --target hello
+[EXECUTE]: cmake -B /home/steve/temp/cppnvim/out/Debug -S . -D CMAKE_BUILD_TYPE:STRING=Debug -DCMAKE_EXPORT_COMPILE_COMMANDS=1
+[EXECUTE]: cmake --build /home/steve/temp/cppnvim/out/Debug --target hello
+[EXECUTE]: cmake -B /home/steve/temp/cppnvim/out/Debug -S . -D CMAKE_BUILD_TYPE:STRING=Debug -DCMAKE_EXPORT_COMPILE_COMMANDS=1
+[EXECUTE]: cmake -B /home/steve/temp/cppnvim/out/Debug -S . -D CMAKE_BUILD_TYPE:STRING=Debug -DCMAKE_EXPORT_COMPILE_COMMANDS=1
+[EXECUTE]: cmake --build /home/steve/temp/cppnvim/out/Debug --target hello
+[EXECUTE]: cmake -B /home/steve/temp/cppnvim/out/Debug -S . -D CMAKE_BUILD_TYPE:STRING=Debug -DCMAKE_EXPORT_COMPILE_COMMANDS=1
+[EXECUTE]: cmake -B /home/steve/temp/cppnvim/out/Debug -S . -D CMAKE_BUILD_TYPE:STRING=Debug -DCMAKE_EXPORT_COMPILE_COMMANDS=1
+[EXECUTE]: cmake --build /home/steve/temp/cppnvim/out/Debug --target hello
+[EXECUTE]: cmake -B /home/steve/temp/cppnvim/out/Debug -S . -D CMAKE_BUILD_TYPE:STRING=Debug -DCMAKE_EXPORT_COMPILE_COMMANDS=1
+[EXECUTE]: cmake --build /home/steve/temp/cppnvim/out/Debug --target hello
+[EXECUTE]: cmake --build /home/steve/temp/cppnvim/out/Debug --target hello

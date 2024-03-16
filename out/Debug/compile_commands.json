@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/steve/temp/cppnvim/out/Debug",
+  "command": "/usr/bin/c++  -I/home/steve/temp/cppnvim/include -isystem /home/steve/skds/SFML-2.6.1/include -g -std=gnu++17 -o CMakeFiles/hello.dir/main.cpp.o -c /home/steve/temp/cppnvim/main.cpp",
+  "file": "/home/steve/temp/cppnvim/main.cpp",
+  "output": "CMakeFiles/hello.dir/main.cpp.o"
+},
+{
+  "directory": "/home/steve/temp/cppnvim/out/Debug",
+  "command": "/usr/bin/c++  -I/home/steve/temp/cppnvim/include -isystem /home/steve/skds/SFML-2.6.1/include -g -std=gnu++17 -o CMakeFiles/hello.dir/src/blah.cpp.o -c /home/steve/temp/cppnvim/src/blah.cpp",
+  "file": "/home/steve/temp/cppnvim/src/blah.cpp",
+  "output": "CMakeFiles/hello.dir/src/blah.cpp.o"
+}
+]
